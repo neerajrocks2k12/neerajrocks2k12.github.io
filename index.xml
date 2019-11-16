@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neeraj Pathak</title>
+    <link>https://neerajrocks2k12.github.io/</link>
+    <description>Recent content on Neeraj Pathak</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 16 Nov 2019 19:26:38 +0530</lastBuildDate>
+    
+	<atom:link href="https://neerajrocks2k12.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://neerajrocks2k12.github.io/about/</link>
+      <pubDate>Sat, 16 Nov 2019 19:26:38 +0530</pubDate>
+      
+      <guid>https://neerajrocks2k12.github.io/about/</guid>
+      <description>I am a Software Developer at Goldman Sachs, India since 2017. I got a chance to do my internship at Goldman Sachs, India which eventuated into a full time role. I received my Integrated Master Degree in Mathematics and Computer Science from IIT BHU. During final semester of my undergrad degree I interned with DIPAS Lab DRDO, New Delhi working on an interesting problem on computational neuroscience involving prediction of hypoxia in soldiers located in high altitude locations.</description>
+    </item>
+    
+    <item>
+      <title>Rational Exuberance</title>
+      <link>https://neerajrocks2k12.github.io/blogs/rational-exuberance/</link>
+      <pubDate>Sat, 16 Nov 2019 19:17:25 +0530</pubDate>
+      
+      <guid>https://neerajrocks2k12.github.io/blogs/rational-exuberance/</guid>
+      <description>Time Series Analysis 101 Work in Progress</description>
+    </item>
+    
+  </channel>
+</rss>
